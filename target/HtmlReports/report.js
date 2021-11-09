@@ -27,7 +27,8 @@ formatter.match({
   "location": "com.paulorocha7117.calculadora.BDDtest.CalcStepsDefinitions.o_resultado_da_adicao_deve_ser(java.lang.Integer)"
 });
 formatter.result({
-  "status": "passed"
+  "error_message": "java.lang.AssertionError: expected:\u003c4\u003e but was:\u003c0\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:834)\r\n\tat org.junit.Assert.assertEquals(Assert.java:645)\r\n\tat org.junit.Assert.assertEquals(Assert.java:631)\r\n\tat com.paulorocha7117.calculadora.BDDtest.CalcStepsDefinitions.o_resultado_da_adicao_deve_ser(CalcStepsDefinitions.java:36)\r\n\tat ✽.o resultado da adicao deve ser 4(file:///C:/Users/Notebook/Desktop/sem%20anotação/com.paulorocha7117/src/test/resources/Features/Calculadora.feature:7)\r\n",
+  "status": "failed"
 });
 formatter.scenario({
   "name": "Subtracao",
@@ -35,7 +36,7 @@ formatter.scenario({
   "keyword": "Cenario"
 });
 formatter.step({
-  "name": "que o usuario subraia 2 de 2",
+  "name": "que o usuario subtraia 2 de 2",
   "keyword": "Dado "
 });
 formatter.match({

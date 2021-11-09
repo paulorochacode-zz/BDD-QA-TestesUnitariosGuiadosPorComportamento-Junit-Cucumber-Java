@@ -6,9 +6,9 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 
-//Endereços:
-@CucumberOptions(features="src/test/resources/Features",
-//glue={"CalcStepsDefinitions"},strict = true
+//Enderecos:
+@CucumberOptions(features="src/test/resources/Features", strict = true,
+//glue={"CalcStepsDefinitions"}
 //melhorar output:
 monochrome = true,
 plugin = {"pretty","html:target/HtmlReports"}

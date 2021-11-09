@@ -7,7 +7,7 @@
       Entao o resultado da adicao deve ser 4
       
     Cenario: Subtracao
-      Dado que o usuario subraia 2 de 2
+      Dado que o usuario subtraia 2 de 2
       Entao o resultado da subtracao deve ser 0
       
     Cenario: Multiplicacao
