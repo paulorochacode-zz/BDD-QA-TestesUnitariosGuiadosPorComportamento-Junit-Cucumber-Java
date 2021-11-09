@@ -3,4 +3,4 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/71628988/140997171-850c30a5-e174-446f-bddd-4e5d8af927fa.PNG" width="700px" />
 </div>
-<p>suposto Bug encontrado em classe do código fonte da aplicação.</p>
+<p align="center">suposto Bug encontrado em classe do código fonte da aplicação.</p>
