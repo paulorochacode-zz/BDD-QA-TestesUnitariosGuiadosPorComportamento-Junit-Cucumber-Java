@@ -1,9 +1,7 @@
 package com.paulorocha7117.calculadora.BDDtest;
 
 import static org.junit.Assert.assertEquals;
-
 import com.paulorocha7117.calculadora.Calculadora;
-
 import io.cucumber.java.pt.Dado;
 import io.cucumber.java.pt.Entao;
 
